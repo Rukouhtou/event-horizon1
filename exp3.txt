@@ -4,4 +4,4 @@ asdf asdf
 
 zxcv zxcv
 
-uiop op[]
+uiop nm,.op[]
